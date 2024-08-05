@@ -1,0 +1,89 @@
+.project {
+    padding-left: 25px;
+}
+.product{
+    float: left;
+    width: 21%;
+    height:fit-content;
+    border: lightgrey solid 1px;
+    line-height: 20px;
+    margin-bottom: 7px;
+    margin-left: 7px;
+    padding-bottom: 5px;
+}
+
+.iphone{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    width: 90%;
+}
+
+.description, h1, h2{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.price{
+    width: fit-content;
+    float: left;
+    width: 65px;
+    font-weight: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.new{
+    font-size: 16px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color: green;
+    width: fit-content; 
+    margin-top: auto;
+}
+
+.old{
+    font-size: 12px;
+    margin-left: 15px;
+    margin-right: 15px;
+    color:red;
+    text-decoration: line-through;
+    margin-top: auto;
+}
+
+.button{
+    float:left;
+    width: 115px;
+    background-color: #0679f6;
+    border: solid 1px #0679f6;
+}
+
+.cart-image{
+    margin-left: 70px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+}
+
+.cart{
+    font-size: 14px;
+    margin-left: -13px;
+    color: white;
+}
+
+.buy {
+    float:left;
+    padding-left: 10px;
+}
+
+.wishlist-image {
+    border: solid 2px #0679f6;
+    padding: 7.2px;
+}
+
+.clearfix{
+    clear: left;
+}
+
+img{
+    color:white;
+}
